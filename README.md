@@ -1,6 +1,7 @@
 <h1>Hi, I'm Dai'zhane! <br/><a 
 href="https://www.linkedin.com/in/dai-zhane-shellow-6539a88a/">Data Analyst</a>,
-  <a href=>Healthcare Recruiter</a>
+  <a href=>Healthcare Analyst</a>,
+  <a href=>BI Analyst</a>
 </h1>
 
 <h2>📊Data Analytics Projects:</h2>
