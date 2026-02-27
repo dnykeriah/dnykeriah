@@ -8,6 +8,12 @@ href="https://www.linkedin.com/in/dai-zhane-shellow-6539a88a/">Data Analyst</a>,
 
 - <b>💾SQL Project</b>
   - [Demonstrating SQL Techniques](https://github.com/dnykeriah/SQL_Techniques)
+ 
+- <b>💾Tableau Project</b>
+  - [Demonstrating SQL Techniques](https://github.com/dnykeriah/SQL_Techniques),
+ 
+- <b>💾Power BI Project</b>
+  - [Demonstrating SQL Techniques](https://github.com/dnykeriah/SQL_Techniques)
 
 <h2>📚Certifications:</h2>
 
