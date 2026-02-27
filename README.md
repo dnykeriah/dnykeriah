@@ -14,7 +14,7 @@ href="https://www.linkedin.com/in/dai-zhane-shellow-6539a88a/">Data Analyst</a>
 
 
 <h2>📱Connect with me:</h2>
-<a href="www.linkedin.com/in/dai-zhane-shellow-6539a88a/"target="_blank">
+<a href="https://www.linkedin.com/in/dai-zhane-shellow-6539a88a/"target="_blank">
   <img align="left" alt="Dai'zhane Shellow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
