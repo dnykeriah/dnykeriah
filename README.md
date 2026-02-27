@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1>Hi, I'm Dai'zhane! <br/><a 
+href="www.linkedin.com/in/dai-zhane-shellow-6539a88a">Data Analyst</a>
+</h1>
 
-<!--
-**dnykeriah/dnykeriah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>📊Data Analytics Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>💾SQL Project</b>
+  - [Demonstrating SQL Techniques](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📚Certifications:</h2>
+
+- <b>📜Beginner to Intermediate SQL Boot Camp</b>
+  - [Demonstrated competency in beginner to intermediate SQL skills](https://www.virtualbadge.io/certificate-validator?credential=c4630676-f2fe-489d-8e2d-3efbfaf55c42)
+
+
+<h2>📱Connect with me:</h2>
+<a href="www.linkedin.com/in/dai-zhane-shellow-6539a88a/"target="_blank">
+  <img align="left" alt="Dai'zhane Shellow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
